@@ -18,13 +18,29 @@ Thumbs.db
 *secret*
 *.pem
 *.key
+service-account*.json
 
 # Logs
 *.log
 logs/
 
-# Python (if scripts added later)
+# Python
 __pycache__/
 *.py[cod]
 .venv/
 venv/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+dist/
+*.egg-info/
+
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Supabase
+.supabase/
+supabase/.temp/
