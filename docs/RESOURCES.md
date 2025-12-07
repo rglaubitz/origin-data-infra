@@ -96,6 +96,8 @@ Quick reference links for all technologies used in this project.
 - **Claude Code**: https://docs.anthropic.com/en/docs/claude-code
 - **MCP Protocol**: https://modelcontextprotocol.io/
 - **MCP Servers List**: https://github.com/modelcontextprotocol/servers
+- **Ref Tools MCP**: https://ref.tools/
+- **Ref Tools GitHub**: https://github.com/ref-tools/ref-tools-mcp
 
 ### Prompt Engineering
 
