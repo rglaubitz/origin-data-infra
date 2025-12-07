@@ -12,7 +12,11 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.45.0"
+    "@supabase/supabase-js": "^2.45.0",
+    "@anthropic-ai/sdk": "^0.32.0",
+    "plaid": "^28.0.0",
+    "intuit-oauth": "^4.0.0",
+    "googleapis": "^144.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",

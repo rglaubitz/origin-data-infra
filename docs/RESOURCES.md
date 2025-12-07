@@ -82,18 +82,78 @@ Quick reference links for all technologies used in this project.
 
 ---
 
-## Claude Code / MCP
+## Anthropic (Claude AI)
+
+### API & SDKs
+
+- **Anthropic API Docs**: https://docs.anthropic.com/en/api/getting-started
+- **Python SDK**: https://github.com/anthropics/anthropic-sdk-python
+- **TypeScript SDK**: https://github.com/anthropics/anthropic-sdk-typescript
+- **API Reference**: https://docs.anthropic.com/en/api/messages
+
+### Claude Code & MCP
 
 - **Claude Code**: https://docs.anthropic.com/en/docs/claude-code
 - **MCP Protocol**: https://modelcontextprotocol.io/
 - **MCP Servers List**: https://github.com/modelcontextprotocol/servers
 
+### Prompt Engineering
+
+- **Prompt Library**: https://docs.anthropic.com/en/prompt-library
+- **Best Practices**: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering
+
 ---
 
-## QuickBooks (Downstream)
+## Plaid (Banking)
 
-- **QuickBooks Online API**: https://developer.intuit.com/app/developer/qbo/docs/api/accounting/all-entities/account
-- **Chart of Accounts**: https://developer.intuit.com/app/developer/qbo/docs/api/accounting/all-entities/account
+### Documentation
+
+- **Plaid Docs**: https://plaid.com/docs/
+- **Quickstart Guide**: https://plaid.com/docs/quickstart/
+- **API Reference**: https://plaid.com/docs/api/
+
+### SDKs
+
+- **Python SDK**: https://github.com/plaid/plaid-python
+- **Node SDK**: https://github.com/plaid/plaid-node
+
+### Key Endpoints
+
+- **Transactions Sync**: https://plaid.com/docs/api/products/transactions/#transactionssync
+- **Accounts Get**: https://plaid.com/docs/api/accounts/#accountsget
+- **Link Token**: https://plaid.com/docs/api/tokens/#linktokencreate
+
+### Dashboard
+
+- **Developer Dashboard**: https://dashboard.plaid.com/
+- **Sandbox Testing**: https://plaid.com/docs/sandbox/
+
+---
+
+## QuickBooks Online
+
+### Documentation
+
+- **QBO API Docs**: https://developer.intuit.com/app/developer/qbo/docs/develop
+- **API Explorer**: https://developer.intuit.com/app/developer/qbo/docs/api/accounting/all-entities/account
+- **OAuth 2.0 Guide**: https://developer.intuit.com/app/developer/qbo/docs/develop/authentication-and-authorization
+
+### SDKs
+
+- **Python SDK (python-quickbooks)**: https://github.com/ej2/python-quickbooks
+- **intuit-oauth (Node)**: https://github.com/intuit/oauth-jsclient
+
+### Key Entities
+
+- **Account (Chart of Accounts)**: https://developer.intuit.com/app/developer/qbo/docs/api/accounting/all-entities/account
+- **Purchase (Expenses)**: https://developer.intuit.com/app/developer/qbo/docs/api/accounting/all-entities/purchase
+- **Vendor**: https://developer.intuit.com/app/developer/qbo/docs/api/accounting/all-entities/vendor
+- **JournalEntry**: https://developer.intuit.com/app/developer/qbo/docs/api/accounting/all-entities/journalentry
+
+### Dashboard
+
+- **Developer Portal**: https://developer.intuit.com/app/developer/dashboard
+- **Sandbox Company**: https://developer.intuit.com/app/developer/qbo/docs/develop/sandboxes
 
 ---
 
