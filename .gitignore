@@ -1,0 +1,30 @@
+# Environment
+.env
+.env.local
+*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+*credentials*
+*secret*
+*.pem
+*.key
+
+# Logs
+*.log
+logs/
+
+# Python (if scripts added later)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
