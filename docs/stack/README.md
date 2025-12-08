@@ -65,6 +65,32 @@ Reference documentation for tools and services used in this project.
 
 ---
 
+## Supabase Client Libraries
+
+| Library                                        | Purpose                           | Docs                                                                                          |
+| ---------------------------------------------- | --------------------------------- | --------------------------------------------------------------------------------------------- |
+| [Python Client](./supabase-python.md)          | Database, auth, storage, realtime | [supabase.com/docs/reference/python](https://supabase.com/docs/reference/python/introduction) |
+| [Edge Functions](./supabase-edge-functions.md) | Serverless TypeScript/Deno        | [supabase.com/docs/guides/functions](https://supabase.com/docs/guides/functions)              |
+
+---
+
+## Google Cloud Platform
+
+| Service                           | Purpose                   | Docs                                                                |
+| --------------------------------- | ------------------------- | ------------------------------------------------------------------- |
+| [BigQuery](./gcp-bigquery.md)     | Data warehouse, analytics | [cloud.google.com/bigquery](https://cloud.google.com/bigquery/docs) |
+| [Cloud Storage](./gcp-storage.md) | Object storage            | [cloud.google.com/storage](https://cloud.google.com/storage/docs)   |
+
+---
+
+## Google Workspace
+
+| Service                             | Purpose                   | Docs                                                      |
+| ----------------------------------- | ------------------------- | --------------------------------------------------------- |
+| [Google Sheets](./google-sheets.md) | Spreadsheet API (gspread) | [gspread.readthedocs.io](https://gspread.readthedocs.io/) |
+
+---
+
 ## External Integrations
 
 See [RESOURCES.md](../RESOURCES.md) for documentation links to:

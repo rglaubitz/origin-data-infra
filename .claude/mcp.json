@@ -2,7 +2,7 @@
   "mcpServers": {
     "ref": {
       "type": "http",
-      "url": "https://api.ref.tools/mcp?apiKey=${REF_API_KEY}"
+      "url": "https://api.ref.tools/mcp?apiKey=ref-14d30a6cb843021641b6"
     },
     "supabase": {
       "type": "http",
